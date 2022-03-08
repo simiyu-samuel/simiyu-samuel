@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simiyu-samuel
+- 👋 Hi, I’m Samuel Simiyu
 - 👀 I’m interested in ...programming especially web programming
 - 🌱 I’m currently learning ...at masinga technical and vocational college
 - 💞️ I’m looking to collaborate on ...
