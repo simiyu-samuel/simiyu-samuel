@@ -9,13 +9,16 @@ I'm a passionate software developer with expertise across a wide range of techno
 ## 🛠️ **My Technical Toolbox**
 
 ### Frontend
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React Native](https://img.icons8.com/color/48/000000/react-native.png) 
-![jquery](https://img.icons8.com/color/48/000000/jquery.png)  
-(https://img.icons8.com/color/48/000000/bootstrap.png) 
-(https://img.icons8.com/color/48/000000/html-5.png)  
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**  
+- ![React](https://img.icons8.com/color/48/000000/react.png) **React**  
+- ![React Native](https://img.icons8.com/color/48/000000/react-native.png) **React Native**  
+- ![jQuery](https://img.icons8.com/ios/50/000000/jquery.png) **jQuery**  
+- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) **Bootstrap**  
+- ![HTML/CSS](https://img.icons8.com/color/48/000000/html-5.png) **HTML/CSS**  
 
 ### Backend
-- (https://img.icons8.com/color/48/000000/php.png). (https://img.icons8.com/color/48/000000/laravel.png) 
+- ![PHP](https://img.icons8.com/color/48/000000/php.png) **PHP**  
+- ![Laravel](https://img.icons8.com/ios/50/000000/laravel.png) **Laravel**  
 
 ### Systems Programming
 - ![C](https://img.icons8.com/color/48/000000/c-programming.png) **C/C++**  
