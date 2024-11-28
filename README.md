@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Samuel Simiyu**!
 
-💻 **Full-Stack Software Developer** | Problem Solver | Innovator
+💻 **Full-Stack Software Developer** 
 
 I'm a passionate software developer with expertise across a wide range of technologies. Whether it’s building responsive websites, crafting mobile apps, or solving complex back-end challenges, I bring ideas to life through code. My mission is to create impactful, efficient, and scalable software solutions that deliver real value.
 
