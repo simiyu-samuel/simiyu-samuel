@@ -9,7 +9,7 @@ I'm a passionate software developer with expertise across a wide range of techno
 ## 🛠️ **My Technical Toolbox**
 
 ### Frontend
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  ![React Native](https://img.icons8.com/color/48/000000/react-native.png) ![jQuery](https://img.icons8.com/ios/50/000000/jquery.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png)   ![CSS](https://img.icons8.com/color/48/000000/css-3.png)   
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript ![React Native](https://img.icons8.com/color/48/000000/react-native.png) React ![jQuery](https://img.icons8.com/ios/50/000000/jquery.png) jQuery ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML  ![CSS]<img src="/path/to/icons/css-3.png" alt="CSS Icon">  CSS
 
 ### Backend
 - ![PHP](https://img.icons8.com/color/48/000000/php.png)  ![Laravel](https://img.icons8.com/ios/50/000000/laravel.png) 
