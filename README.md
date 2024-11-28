@@ -9,13 +9,13 @@ I'm a passionate software developer with expertise across a wide range of techno
 ## 🛠️ **My Technical Toolbox**
 
 ### Frontend
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript ![React Native](https://img.icons8.com/color/48/000000/react-native.png) React ![jQuery](https://img.icons8.com/ios/50/000000/jquery.png) jQuery ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML  ![CSS]<img src="/path/to/icons/css-3.png" alt="CSS Icon">  CSS
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript** ![React Native](https://img.icons8.com/color/48/000000/react-native.png) **React** ![jQuery](https://img.icons8.com/ios/58/000000/jquery.png) **jQuery** ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML**  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Icon" width="48" height="48"> **CSS**
 
 ### Backend
-- ![PHP](https://img.icons8.com/color/48/000000/php.png)  ![Laravel](https://img.icons8.com/ios/50/000000/laravel.png) 
+- ![PHP](https://img.icons8.com/color/48/000000/php.png) **PHP** ![Laravel](https://img.icons8.com/ios/50/000000/laravel.png) **LARAVEL**
 
 ### Systems Programming
-- ![C](https://img.icons8.com/color/48/000000/c-programming.png)    ![Visual Basic](https://img.icons8.com/ios/50/000000/visual-basic.png)
+- ![C](https://img.icons8.com/color/48/000000/c-programming.png) **C**  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) **C++** ![Visual Basic](https://img.icons8.com/ios/48/000000/visual-basic.png) **Visual Basic**
 
 ---
 
