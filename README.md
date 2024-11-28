@@ -15,7 +15,8 @@ I'm a passionate software developer with expertise across a wide range of techno
 - ![PHP](https://img.icons8.com/color/48/000000/php.png) **PHP** ![Laravel](https://img.icons8.com/ios/50/000000/laravel.png) **LARAVEL**
 
 ### Systems Programming
-- ![C](https://img.icons8.com/color/48/000000/c-programming.png) **C**  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) **C++** ![Visual Basic](https://img.icons8.com/ios/48/000000/visual-basic.png) **Visual Basic**
+- ![C](https://img.icons8.com/color/48/000000/c-programming.png) **C**  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) **C++** ![Visual Basic](https://img.icons8.com/ios/48/000000/visual-basic.png) **Visual Basic** ![Pascal](https://img.icons8.com/color/48/000000/source-code.png) **Pascal**
+
 
 ---
 
