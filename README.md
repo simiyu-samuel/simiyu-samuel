@@ -1,49 +1,66 @@
-# 👋 Hi, I’m **Samuel Simiyu**!
+# 👋 Hi, I’m **Samuel Simiyu** — Full-Stack Software Developer
 
-💻 **Full-Stack Software Developer** 
-
-I'm a passionate software developer with expertise across a wide range of technologies. Whether it’s building responsive websites, crafting mobile apps, or solving complex back-end challenges, I bring ideas to life through code. My mission is to create impactful, efficient, and scalable software solutions that deliver real value.
-
----
-
-## 🛠️ **My Technical Toolbox**
-
-### Skills/Tools
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React Native](https://img.icons8.com/color/48/000000/react-native.png) ![jQuery](https://img.icons8.com/ios/58/000000/jquery.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)  ![HTML](https://img.icons8.com/color/48/000000/html-5.png)   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Icon" width="48" height="48"> ![PHP](https://img.icons8.com/color/48/000000/php.png) ![Laravel](https://img.icons8.com/ios/50/000000/laravel.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Visual Basic](https://img.icons8.com/ios/48/000000/visual-basic.png) ![Pascal](https://img.icons8.com/color/48/000000/source-code.png)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-LIVE-green?style=for-the-badge&logo=github)](https://simiyu-samuel.github.io/Portfolio-latest/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/simiyu-samuel/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/simiyu-samuel)
 
 ---
 
-## 🚀 **What I Bring to the Table**
-
-- **Problem-solving Mindset**: I thrive on tackling challenges head-on and coming up with creative, efficient solutions.  
-- **Full-Stack Expertise**: From building modern, dynamic frontends to developing robust, scalable backends, I’m fully equipped to handle the complete software lifecycle.  
-- **Cross-Platform App Development**: With React Native, I develop mobile apps that work seamlessly across Android and iOS platforms.  
-- **Adaptability**: I’m constantly learning, exploring new frameworks, and staying up-to-date with industry trends to ensure I’m delivering cutting-edge solutions.
+💻 I'm a passionate **software developer** who thrives in building robust web systems, mobile apps, and efficient backend solutions.  
+I transform **ideas into impact** using code and love collaborating on projects that solve real-world problems.
 
 ---
 
-## 💡 **Let's Collaborate!**
+## 🛠️ Tech Stack & Tools
 
-I'm looking to partner with individuals and teams on exciting projects in:
-
-- **Web Development**: Creating intuitive and beautiful websites with clean code.  
-- **Mobile App Development**: Developing apps that provide great user experiences across all devices.  
-- **System Programming**: Leveraging my C/C++ and Pascal experience to optimize performance and develop low-level solutions.
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React Native"/>
+  <img src="https://img.icons8.com/ios/58/000000/jquery.png" title="jQuery"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
+  <img src="https://img.icons8.com/color/48/000000/php.png" title="PHP"/>
+  <img src="https://img.icons8.com/ios/50/000000/laravel.png" title="Laravel"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
+  <img src="https://img.icons8.com/ios/48/000000/visual-basic.png" title="Visual Basic"/>
+  <img src="https://img.icons8.com/color/48/000000/source-code.png" title="Pascal"/>
+</p>
 
 ---
 
-## 🌱 **Lifelong Learner**
+## 🚀 What I Offer
 
-Learning is at the heart of everything I do. I’m constantly exploring new languages, frameworks, and tools to stay sharp and grow as a developer. Whether it’s mastering new techniques in JavaScript or diving deeper into systems programming, I’m always seeking to expand my expertise.
+- 🔧 **Full-Stack Development**: From pixel-perfect frontends to scalable backends  
+- 📱 **Mobile Apps**: React Native cross-platform solutions  
+- 🔍 **Clean, maintainable code** using modern design principles  
+- 💡 **Innovative Solutions**: Problem-solving, automation, optimization
 
 ---
 
-## 📬 **Let's Connect!**
+## 📈 GitHub Stats
 
-I’m always excited to connect with fellow developers, innovators, and collaborators. Feel free to reach me via:
+![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simiyu-samuel&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simiyu-samuel&layout=compact&theme=tokyonight)
 
-- **WhatsApp**: +254 796 590 401  
-- **Email**: simiyusamuel869@gmail.com  
+---
 
-Together, we can build something extraordinary! ✨
+## 🌍 Explore My Work
+
+✨ [**Check out my portfolio here**](https://simiyu-samuel.github.io/Portfolio-latest)  
+📂 Explore my live projects, skill icons, awards, certifications, and more.
+
+---
+
+## 📬 Let’s Collaborate!
+
+Have a project in mind or need a dev on your team? Let’s chat!
+
+- 📧 **Email**: simiyusamuel869@gmail.com  
+- 📞 **WhatsApp**: +254 796 590 401  
+- 🌐 **Portfolio**: [https://simiyu-samuel.github.io/Portfolio-latest](https://simiyu-samuel.github.io/Portfolio-latest)
+
+---
+
+> “Code is not just what I do — it’s how I bring ideas to life.” — *Samuel Simiyu*
