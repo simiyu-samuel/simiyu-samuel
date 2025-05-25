@@ -44,6 +44,13 @@ I transform **ideas into impact** using code and love collaborating on projects 
 ![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simiyu-samuel&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simiyu-samuel&layout=compact&theme=tokyonight)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simiyu-samuel&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Samuel's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=simiyu-samuel&theme=tokyo-night)](https://github.com/simiyu-samuel)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=simiyu-samuel&theme=tokyonight&margin-w=10&no-frame=true)](https://github.com/simiyu-samuel)
+
+
 ---
 
 ## 🌍 Explore My Work
