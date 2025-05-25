@@ -30,25 +30,39 @@ I transform **ideas into impact** using code and love collaborating on projects 
 
 ---
 
-## 🚀 What I Offer
+## 🚀 What I Bring to the Table
 
-- 🔧 **Full-Stack Development**: From pixel-perfect frontends to scalable backends  
-- 📱 **Mobile Apps**: React Native cross-platform solutions  
-- 🔍 **Clean, maintainable code** using modern design principles  
-- 💡 **Innovative Solutions**: Problem-solving, automation, optimization
+- 🧠 **Problem-solving Mindset**: I thrive on tackling challenges head-on and coming up with creative, efficient solutions.  
+- 🌐 **Full-Stack Expertise**: From dynamic frontends to scalable backends, I handle the complete software lifecycle.  
+- 📱 **Cross-Platform App Development**: I use React Native to build seamless Android & iOS apps.  
+- 🔄 **Adaptability**: Always learning, exploring new frameworks, and delivering cutting-edge solutions.
 
 ---
 
-## 📈 GitHub Stats
+## 🌱 Lifelong Learner
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simiyu-samuel&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simiyu-samuel&layout=compact&theme=tokyonight)
+Learning is at the heart of everything I do. Whether it's exploring new JavaScript techniques, mastering Laravel, or understanding systems at a low level, I'm always upskilling.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simiyu-samuel&theme=tokyonight)](https://git.io/streak-stats)
+---
 
-[![Samuel's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=simiyu-samuel&theme=tokyo-night)](https://github.com/simiyu-samuel)
+## 📊 GitHub Insights & Contributions
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=simiyu-samuel&theme=tokyonight&margin-w=10&no-frame=true)](https://github.com/simiyu-samuel)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simiyu-samuel&show_icons=true&theme=tokyonight" alt="Samuel's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simiyu-samuel&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simiyu-samuel&theme=tokyonight" alt="GitHub Streak" height="150" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=simiyu-samuel&theme=tokyonight&margin-w=10&no-frame=true" alt="Trophies"/>
+</p>
+
+---
 
 
 ---
