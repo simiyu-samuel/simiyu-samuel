@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Samuel Simiyu** — Full-Stack Software Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-LIVE-green?style=for-the-badge&logo=github)](https://simiyu-samuel.github.io/Portfolio-latest/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/simiyu-samuel/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samuel-simiyu-63270a236/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/simiyu-samuel)
 
 ---
