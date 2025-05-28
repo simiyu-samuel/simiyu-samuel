@@ -9,23 +9,59 @@
 💻 I'm a passionate **software developer** who thrives in building robust web systems, mobile apps, and efficient backend solutions.  
 I transform **ideas into impact** using code and love collaborating on projects that solve real-world problems.
 
----
+---## 🛠️ Tech Stack & Tools
 
 ## 🛠️ Tech Stack & Tools
 
+### 💻 Frontend
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React Native"/>
   <img src="https://img.icons8.com/ios/58/000000/jquery.png" title="jQuery"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" title="Tailwind CSS"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
+</p>
+
+### 🧠 Backend
+<p align="left">
   <img src="https://img.icons8.com/color/48/000000/php.png" title="PHP"/>
   <img src="https://img.icons8.com/ios/50/000000/laravel.png" title="Laravel"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/>
+  <img src="https://img.icons8.com/ios/50/000000/express-js.png" title="Express.js"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
+</p>
+
+### 🗃️ Databases
+<p align="left">
+  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" title="MySQL"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" title="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"/>
+</p>
+
+### ⚙️ Tools & Utilities
+<p align="left">
+  <img src="https://img.icons8.com/material-outlined/48/000000/github.png" title="GitHub"/>
+  <img src="https://img.icons8.com/color/48/000000/npm.png" title="NPM"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-composer-a-tool-for-dependency-management-in-php-logo-shadow-tal-revivo.png" title="Composer"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" title="Postman"/>
+  <img src="https://img.icons8.com/ios/50/000000/api.png" title="RESTful APIs"/>
+  <img src="https://img.icons8.com/ios/50/000000/cpanel.png" title="cPanel"/>
+</p>
+
+### 🔢 System Programming Languages
+<p align="left">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
   <img src="https://img.icons8.com/ios/48/000000/visual-basic.png" title="Visual Basic"/>
   <img src="https://img.icons8.com/color/48/000000/source-code.png" title="Pascal"/>
+
+</p>
+
+### 🏆 Competitive Edge
+<p align="left">
+  <img src="https://img.icons8.com/emoji/48/000000/1st-place-medal-emoji.png" title="Gold Medalist – WorldSkills Kenya"/>
+  <img src="https://img.icons8.com/emoji/48/000000/trophy-emoji.png" title="Award-Winning Software Solutions Developer"/>
 </p>
 
 ---
