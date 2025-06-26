@@ -9,8 +9,6 @@
 💻 I'm a passionate **software developer** who thrives in building robust web systems, mobile apps, and efficient backend solutions.  
 I transform **ideas into impact** using code and love collaborating on projects that solve real-world problems.
 
----## 🛠️ Tech Stack & Tools
-
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Frontend
@@ -82,7 +80,7 @@ Learning is at the heart of everything I do. Whether it's exploring new JavaScri
 ---
 
 ## 📊 GitHub Insights & Contributions
-
+![Profile Views](https://komarev.com/ghpvc/?username=simiyu-samuel&style=flat-square&color=brightgreen)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=simiyu-samuel&show_icons=true&theme=tokyonight" alt="Samuel's GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simiyu-samuel&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
