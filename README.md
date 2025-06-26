@@ -73,8 +73,7 @@
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=simiyu-samuel&repo=afyabora_healthcare&theme=dark&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/simiyu-samuel/afyabora_healthcare)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=simiyu-samuel&repo=ai-prompt-studio&theme=dark&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/simiyu-samuel/ai-prompt-studio)
+[![AfyaBora Healthcare](https://github-readme-stats.vercel.app/api/pin/?username=simiyu-samuel&repo=afyabora_healthcare&theme=dark&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/simiyu-samuel/afyabora_healthcare)
 
 </div>
 
