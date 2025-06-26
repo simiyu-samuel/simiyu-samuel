@@ -73,7 +73,8 @@
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=simiyu-samuel&repo=Portfolio-latest&theme=dark&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/simiyu-samuel/Portfolio-latest)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=simiyu-samuel&repo=afyabora_healthcare&theme=dark&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/simiyu-samuel/afyabora_healthcare)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=simiyu-samuel&repo=ai-prompt-studio&theme=dark&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/simiyu-samuel/ai-prompt-studio)
 
 </div>
 
@@ -117,8 +118,7 @@
 
 ### 🌟 Social Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/simiyu-samuel)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/simiyu_samuel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-simiyu-63270a236)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simiyu-samuel)
 
 </div>
