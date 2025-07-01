@@ -138,6 +138,8 @@
 ---
 
 ### 📱 Mobile Portfolio App
+[![Developer-Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=simiyu-samuel&repo=developer-portfolio-mobile-app&theme=dark&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/simiyu-samuel/developer-portfolio-mobile-app)
+
 **🎯 Cross-Platform**: React Native mobile showcase application  
 **🔧 Features**: Project gallery, real-time GitHub stats, contact integration  
 **📲 Platforms**: iOS & Android with native performance  
