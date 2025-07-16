@@ -277,6 +277,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Build%20Something%20Extraordinary!&fontSize=32&fontColor=fff&animation=twinkling" />
-</div>
