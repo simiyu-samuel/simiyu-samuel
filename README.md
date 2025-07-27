@@ -55,7 +55,7 @@
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Arsenal
 
 <div align="center">
 
