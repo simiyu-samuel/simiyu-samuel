@@ -236,7 +236,7 @@
 
 <div align="left">
 
-**🔥 Q3 2025 Goals**:
+**🔥 2025 Goals**:
 - Launch Lines Genius premium subscriptions (Target: $2K MRR)
 - Complete AfyaBora MVP and secure first healthcare client
 - Build strategic partnerships for mobile app development
