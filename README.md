@@ -9,7 +9,7 @@
 ╚══════╝╚═╝╚═╝     ╚═╝╚═╝   ╚═╝    ╚═════╝     ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚══════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+Product+Hacker;Building+Revenue-First+Products;500%2B+Users+%7C+Scaling+to+%245K+MRR;Code+%2B+Business+%3D+Impact;System.out.println(%22Hello+World!%22);" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+Laravel+Tamer;Building+Revenue-First+Products;500%2B+Users+%7C+Scaling+to+%245K+MRR;Code+%2B+Business+%3D+Impact;System.out.println(%22Hello+World!%22);" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/⚡_DEPLOY-PORTFOLIO-00FF41?style=for-the-badge&labelColor=000000)](https://simiyu-samuel.vercel.app)
 [![Email](https://img.shields.io/badge/📡_CONTACT-EMAIL-FF0000?style=for-the-badge&labelColor=000000)](mailto:simiyusamuel869@gmail.com)
