@@ -1,0 +1,23 @@
+<!-- DEVELOPER-RATING:END -->"""
+
+          # ── Patch README.md ─────────────────────────────────────────────────
+          with open("README.md", "r") as f:
+              content = f.read()
+          patched = re.sub(
+              r"<!-- DEVELOPER-RATING:START -->.*?<!-- DEVELOPER-RATING:END -->",
+              block, content, flags=re.DOTALL
+          )
+          with open("README.md", "w") as f:
+              f.write(patched)
+
+          print(f"✅  Rating: {rating}/10  |  Stars: {total_stars}  |  Commits: {commits}  |  Streak: {streak}d")
+          PYTHON
+
+      - name: Commit updated README
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: auto-update developer rating [skip ci]"
+          git push
+-->
