@@ -1,44 +1,63 @@
 <div align="center">
 
-# Simiyu Samuel
+# 👋 Hi, I'm Simiyu Samuel
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Problem+Solver+%F0%9F%9A%80" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=simiyu-samuel&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS)](https://github.com/simiyu-samuel)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://simiyu-samuel.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simiyusamuel869@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-simiyu-63270a236)
 
-> *"Talk is cheap. Show me the code."* — Linus Torvalds
+</div>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</p>
 
 ---
+
+<div align="center">
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=simiyu-samuel&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&show=reviews,prs_merged,prs_merged_percentage" height="195"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simiyu-samuel&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" height="195"/>
+<img src="https://github-readme-stats.vercel.app/api?username=simiyu-samuel&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simiyu-samuel&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🔥 Contribution Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=simiyu-samuel&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/simiyu-samuel)
 
----
-
-## 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=simiyu-samuel&theme=matrix&no-bg=true&no-frame=true&row=1&column=7)](https://github.com/simiyu-samuel)
+</div>
 
 ---
 
-## 📈 Activity Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=simiyu-samuel&theme=react-dark&hide_border=true&color=00FF41&line=00FF41&point=ffffff)](https://github.com/simiyu-samuel)
-
----
+<div align="center">
 
 ## 🎯 Developer Rating
 
-> ⚡ Computed from **live GitHub API data** · Auto-refreshed every 24h via GitHub Actions
+> ⚡ Auto-updated daily with live GitHub data
 
 <!-- DEVELOPER-RATING:START -->
 <!-- DEVELOPER-RATING:END -->
@@ -47,161 +66,28 @@
 
 ---
 
-<!--
-================================================================
-  SETUP: Auto-updating Developer Rating via GitHub Actions
-================================================================
+<div align="center">
 
-Create this file in your repo:  .github/workflows/update-rating.yml
-It will call the GitHub GraphQL API, compute a weighted score
-from your REAL stats (stars, commits, PRs, streak, followers,
-repos, activity), and rewrite the section above automatically.
+## 📫 Connect With Me
 
-================================================================
+<a href="https://simiyu-samuel.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-00FF41?style=for-the-badge&logoColor=black" alt="Portfolio"/>
+</a>
+<a href="mailto:simiyusamuel869@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/samuel-simiyu-63270a236" target="_blank">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-name: Update Developer Rating
+</div>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  push:
-    branches: [main]
-  workflow_dispatch:
+---
 
-jobs:
-  update-rating:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
+<div align="center">
 
-    steps:
-      - uses: actions/checkout@v4
+![Snake animation](https://raw.githubusercontent.com/simiyu-samuel/simiyu-samuel/output/github-contribution-grid-snake-dark.svg)
 
-      - name: Compute rating from GitHub API and update README
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          python3 - <<'PYTHON'
-          import os, json, urllib.request, math, re, datetime
+⭐ From [simiyu-samuel](https://github.com/simiyu-samuel)
 
-          USERNAME = "simiyu-samuel"
-          TOKEN    = os.environ["GH_TOKEN"]
-
-          def gql(query, variables=None):
-              payload = json.dumps({"query": query, "variables": variables or {}}).encode()
-              req = urllib.request.Request(
-                  "https://api.github.com/graphql",
-                  data=payload,
-                  headers={
-                      "Authorization": f"Bearer {TOKEN}",
-                      "Content-Type": "application/json"
-                  }
-              )
-              return json.loads(urllib.request.urlopen(req).read())
-
-          # ── Fetch all data in one GraphQL call ──────────────────────────────
-          result = gql("""
-          query($login: String!) {
-            user(login: $login) {
-              repositories(ownerAffiliations: OWNER, first: 100, isFork: false) {
-                totalCount
-                nodes { stargazerCount forkCount primaryLanguage { name } }
-              }
-              contributionsCollection {
-                totalCommitContributions
-                totalPullRequestContributions
-                totalIssueContributions
-                contributionCalendar {
-                  totalContributions
-                  weeks { contributionDays { contributionCount } }
-                }
-              }
-              followers { totalCount }
-              pullRequests(states: MERGED) { totalCount }
-              issues { totalCount }
-            }
-          }
-          """, {"login": USERNAME})["data"]["user"]
-
-          repos   = result["repositories"]["nodes"]
-          contrib = result["contributionsCollection"]
-          cal     = contrib["contributionCalendar"]
-
-          total_stars   = sum(r["stargazerCount"] for r in repos)
-          total_forks   = sum(r["forkCount"]       for r in repos)
-          repo_count    = result["repositories"]["totalCount"]
-          commits       = contrib["totalCommitContributions"]
-          prs_merged    = result["pullRequests"]["totalCount"]
-          issues        = result["issues"]["totalCount"]
-          followers     = result["followers"]["totalCount"]
-          total_contrib = cal["totalContributions"]
-
-          # ── Streak from calendar ────────────────────────────────────────────
-          days = [d["contributionCount"]
-                  for w in cal["weeks"] for d in w["contributionDays"]]
-          streak = 0
-          for c in reversed(days):
-              if c > 0: streak += 1
-              else: break
-
-          # ── Top languages ───────────────────────────────────────────────────
-          lang_count = {}
-          for r in repos:
-              if r["primaryLanguage"]:
-                  name = r["primaryLanguage"]["name"]
-                  lang_count[name] = lang_count.get(name, 0) + 1
-          top_langs = ", ".join(
-              k for k, _ in sorted(lang_count.items(), key=lambda x: -x[1])[:4]
-          ) or "N/A"
-
-          # ── Weighted score (max 10.0) ───────────────────────────────────────
-          def clamp(v): return max(0.0, min(1.0, v))
-
-          s_stars     = clamp(math.log10(total_stars   + 1) / math.log10(500))  * 2.0
-          s_commits   = clamp(math.log10(commits       + 1) / math.log10(2000)) * 2.5
-          s_prs       = clamp(math.log10(prs_merged    + 1) / math.log10(200))  * 1.5
-          s_repos     = clamp(math.log10(repo_count    + 1) / math.log10(50))   * 1.0
-          s_followers = clamp(math.log10(followers     + 1) / math.log10(500))  * 1.0
-          s_streak    = clamp(streak / 90)                                       * 1.0
-          s_contrib   = clamp(math.log10(total_contrib + 1) / math.log10(1500)) * 1.0
-
-          rating = round(min(s_stars + s_commits + s_prs + s_repos +
-                             s_followers + s_streak + s_contrib, 10), 1)
-
-          def bar(val, max_val, width=18):
-              pct = val / max_val if max_val else 0
-              filled = round(clamp(pct) * width)
-              return "█" * filled + "░" * (width - filled)
-
-          updated = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-
-          # ── Rating block ────────────────────────────────────────────────────
-          block = f"""<!-- DEVELOPER-RATING:START -->
-```
-┌──────────────────────────────────────────────────────┐
-│          DEVELOPER PROFILE — @{USERNAME}          │
-├────────────────────────┬─────────────────────────────┤
-│  ⭐ Total Stars        │  {total_stars:<6}                    │
-│  🍴 Total Forks        │  {total_forks:<6}                    │
-│  📦 Public Repos       │  {repo_count:<6}                    │
-│  🔀 PRs Merged         │  {prs_merged:<6}                    │
-│  🐛 Issues Opened      │  {issues:<6}                    │
-│  🔥 Current Streak     │  {streak} days                  │
-│  👥 Followers          │  {followers:<6}                    │
-│  📅 Total Contributions│  {total_contrib:<6}                    │
-│  🌐 Top Languages      │  {top_langs:<28}  │
-├────────────────────────┴─────────────────────────────┤
-│  SCORE BREAKDOWN                                     │
-├──────────────────────────────────────────────────────┤
-│  ⭐ Stars       {bar(s_stars,   2.0)}  {s_stars:.2f}/2.0  │
-│  🔥 Commits     {bar(s_commits, 2.5)}  {s_commits:.2f}/2.5  │
-│  🔀 PRs Merged  {bar(s_prs,    1.5)}  {s_prs:.2f}/1.5  │
-│  📦 Repos       {bar(s_repos,  1.0)}  {s_repos:.2f}/1.0  │
-│  👥 Followers   {bar(s_followers,1.0)}  {s_followers:.2f}/1.0  │
-│  🔥 Streak      {bar(s_streak, 1.0)}  {s_streak:.2f}/1.0  │
-│  📅 Activity    {bar(s_contrib,1.0)}  {s_contrib:.2f}/1.0  │
-├──────────────────────────────────────────────────────┤
-│  🏆  OVERALL RATING:  {rating} / 10.0                   │
-└──────────────────────────────────────────────────────┘
-  Last updated: {updated}
-```
+</div>
