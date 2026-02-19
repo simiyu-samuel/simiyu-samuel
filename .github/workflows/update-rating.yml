@@ -102,42 +102,79 @@ jobs:
 
           rating = round(min(s_stars + s_commits + s_prs + s_repos + s_followers + s_streak + s_contrib, 10), 1)
 
-          def bar(val, max_val, width=18):
-              pct = val / max_val if max_val else 0
-              filled = round(clamp(pct) * width)
-              return "█" * filled + "░" * (width - filled)
-
           updated = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
+          # Determine developer level
+          if rating >= 8.5:
+              level = "🏆 Master Developer"
+              level_desc = "Elite-level expertise with exceptional contributions"
+          elif rating >= 7.0:
+              level = "🚀 Advanced Developer"
+              level_desc = "Strong skills with significant project experience"
+          elif rating >= 5.0:
+              level = "💡 Intermediate Developer"
+              level_desc = "Solid foundation with growing expertise"
+          else:
+              level = "🌱 Beginner Developer"
+              level_desc = "Building skills and gaining experience"
+
+          def progress_bar(value, max_val):
+              percentage = int((value / max_val) * 100) if max_val > 0 else 0
+              filled = int(percentage / 5)
+              empty = 20 - filled
+              return "█" * filled + "░" * empty
+
           block = f"""<!-- DEVELOPER-RATING:START -->
-          ```
-          ┌──────────────────────────────────────────────────────┐
-          │          DEVELOPER PROFILE — @{USERNAME}          │
-          ├────────────────────────┬─────────────────────────────┤
-          │  ⭐ Total Stars        │  {total_stars:<6}                    │
-          │  🍴 Total Forks        │  {total_forks:<6}                    │
-          │  📦 Public Repos       │  {repo_count:<6}                    │
-          │  🔀 PRs Merged         │  {prs_merged:<6}                    │
-          │  🐛 Issues Opened      │  {issues:<6}                    │
-          │  🔥 Current Streak     │  {streak} days                  │
-          │  👥 Followers          │  {followers:<6}                    │
-          │  📅 Total Contributions│  {total_contrib:<6}                    │
-          │  🌐 Top Languages      │  {top_langs:<28}  │
-          ├────────────────────────┴─────────────────────────────┤
-          │  SCORE BREAKDOWN                                     │
-          ├──────────────────────────────────────────────────────┤
-          │  ⭐ Stars       {bar(s_stars, 2.0)}  {s_stars:.2f}/2.0  │
-          │  🔥 Commits     {bar(s_commits, 2.5)}  {s_commits:.2f}/2.5  │
-          │  🔀 PRs Merged  {bar(s_prs, 1.5)}  {s_prs:.2f}/1.5  │
-          │  📦 Repos       {bar(s_repos, 1.0)}  {s_repos:.2f}/1.0  │
-          │  👥 Followers   {bar(s_followers, 1.0)}  {s_followers:.2f}/1.0  │
-          │  🔥 Streak      {bar(s_streak, 1.0)}  {s_streak:.2f}/1.0  │
-          │  � Activity    {bar(s_contrib, 1.0)}  {s_contrib:.2f}/1.0  │
-          ├──────────────────────────────────────────────────────┤
-          │  🏆  OVERALL RATING:  {rating} / 10.0                   │
-          └──────────────────────────────────────────────────────┘
-            Last updated: {updated}
-          ```
+
+          <div align="center">
+
+          ### {level}
+          ## 🎯 {rating}/10.0
+          *{level_desc}*
+
+          </div>
+
+          <table align="center">
+          <tr>
+          <td width="50%" valign="top">
+
+          #### 📊 GitHub Statistics
+          | Metric | Value |
+          |--------|-------|
+          | ⭐ Total Stars | **{total_stars}** |
+          | 🍴 Total Forks | **{total_forks}** |
+          | 📦 Public Repos | **{repo_count}** |
+          | 🔀 PRs Merged | **{prs_merged}** |
+          | 🐛 Issues Opened | **{issues}** |
+          | 🔥 Current Streak | **{streak} days** |
+          | 👥 Followers | **{followers}** |
+          | 📅 Total Contributions | **{total_contrib}** |
+
+          </td>
+          <td width="50%" valign="top">
+
+          #### 🎯 Score Breakdown
+          | Category | Progress | Score |
+          |----------|----------|-------|
+          | ⭐ Stars | {progress_bar(s_stars, 2.0)} | {s_stars:.2f}/2.0 |
+          | 🔥 Commits | {progress_bar(s_commits, 2.5)} | {s_commits:.2f}/2.5 |
+          | 🔀 PRs | {progress_bar(s_prs, 1.5)} | {s_prs:.2f}/1.5 |
+          | 📦 Repos | {progress_bar(s_repos, 1.0)} | {s_repos:.2f}/1.0 |
+          | 👥 Followers | {progress_bar(s_followers, 1.0)} | {s_followers:.2f}/1.0 |
+          | 🔥 Streak | {progress_bar(s_streak, 1.0)} | {s_streak:.2f}/1.0 |
+          | 📅 Activity | {progress_bar(s_contrib, 1.0)} | {s_contrib:.2f}/1.0 |
+
+          </td>
+          </tr>
+          </table>
+
+          <div align="center">
+
+          **🌐 Top Languages:** {top_langs}  
+          *Last updated: {updated}*
+
+          </div>
+
           <!-- DEVELOPER-RATING:END -->"""
 
           with open("README.md", "r") as f:
@@ -146,7 +183,7 @@ jobs:
           with open("README.md", "w") as f:
               f.write(patched)
 
-          print(f"✅ Rating: {rating}/10 | Stars: {total_stars} | Commits: {commits} | Streak: {streak}d")
+          print(f"✅ Rating: {rating}/10 ({level}) | Stars: {total_stars} | Commits: {commits} | Streak: {streak}d")
           EOF
 
       - name: Commit updated README
