@@ -9,7 +9,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=simiyu-samuel&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS)](https://github.com/simiyu-samuel)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://simiyu-samuel.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simiyusamuel869@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-simiyu-63270a236)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-simiyu-bbb1273b1)
 
 </div>
 
@@ -146,7 +146,7 @@
 <a href="mailto:simiyusamuel869@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://www.linkedin.com/in/samuel-simiyu-63270a236" target="_blank">
+<a href="https://www.linkedin.com/in/samuel-simiyu-bbb1273b1" target="_blank">
   <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -160,6 +160,6 @@
 
 ---
 
-<sub>⭐ From [simiyu-samuel](https://github.com/simiyu-samuel) with 💚</sub>
+<sub>⭐ From [simiyu-samuel](https://github.com/simiyu-samuel) </sub>
 
 </div>
