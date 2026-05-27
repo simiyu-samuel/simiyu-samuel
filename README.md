@@ -63,45 +63,44 @@
 > ⚡ Auto-updated daily via GitHub Actions
 
 <!-- DEVELOPER-RATING:START -->
+
 <div align="center">
 
-| | |
-|:---|:---|
-| **Rating** | 🚀 Advanced Developer |
-| **Score** | **7.5 / 10.0** |
-| **Summary** | Strong skills with significant project experience |
+### 🚀 Advanced Developer
+## 🎯 7.5/10.0
+*Strong skills with significant project experience*
 
 </div>
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 📊 GitHub metrics
+#### 📊 GitHub Statistics
 | Metric | Value |
-|:---|---:|
-| ⭐ Stars earned | **108** |
-| 🍴 Forks | **13** |
-| 📦 Public repos | **62** |
-| 🔀 PRs merged | **58** |
-| 🐛 Issues opened | **6** |
-| 🔥 Current streak | **0 days** |
+|--------|-------|
+| ⭐ Total Stars | **108** |
+| 🍴 Total Forks | **13** |
+| 📦 Public Repos | **62** |
+| 🔀 PRs Merged | **58** |
+| 🐛 Issues Opened | **6** |
+| 🔥 Current Streak | **3 days** |
 | 👥 Followers | **52** |
-| 📅 Total contributions | **1,701** |
+| 📅 Total Contributions | **1702** |
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🎯 Score breakdown
-| Category | Bar | Score |
-|:---|:---|---:|
-| ⭐ Stars | `███████████░░░░░░` | 1.51 / 2.0 |
-| 🔥 Commits | `█████████████░░░░` | 2.15 / 2.5 |
-| 🔀 Pull requests | `███████████░░░░░░` | 1.15 / 1.5 |
-| 📦 Repos | `████████████████` | 1.00 / 1.0 |
-| 👥 Followers | `██████████░░░░░░░` | 0.64 / 1.0 |
-| 🔥 Streak | `░░░░░░░░░░░░░░░░░` | 0.00 / 1.0 |
-| 📅 Activity | `████████████████` | 1.00 / 1.0 |
+#### 🎯 Score Breakdown
+| Category | Progress | Score |
+|----------|----------|-------|
+| ⭐ Stars | ███████████████░░░░░ | 1.51/2.0 |
+| 🔥 Commits | █████████████████░░░ | 2.15/2.5 |
+| 🔀 PRs | ███████████████░░░░░ | 1.15/1.5 |
+| 📦 Repos | ████████████████████ | 1.00/1.0 |
+| 👥 Followers | ████████████░░░░░░░░ | 0.64/1.0 |
+| 🔥 Streak | ░░░░░░░░░░░░░░░░░░░░ | 0.03/1.0 |
+| 📅 Activity | ████████████████████ | 1.00/1.0 |
 
 </td>
 </tr>
@@ -109,10 +108,11 @@
 
 <div align="center">
 
-**🌐 Top languages:** PHP · TypeScript · HTML · JavaScript  
-*Last updated: 2026-05-27 · auto-refreshed daily*
+**🌐 Top Languages:** PHP, TypeScript, HTML, JavaScript  
+*Last updated: 2026-05-27 06:49 UTC*
 
 </div>
+
 <!-- DEVELOPER-RATING:END -->
 
 ---
