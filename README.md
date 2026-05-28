@@ -84,7 +84,7 @@
 | 📦 Public Repos | **62** |
 | 🔀 PRs Merged | **58** |
 | 🐛 Issues Opened | **6** |
-| 🔥 Current Streak | **3 days** |
+| 🔥 Current Streak | **0 days** |
 | 👥 Followers | **52** |
 | 📅 Total Contributions | **1702** |
 
@@ -99,7 +99,7 @@
 | 🔀 PRs | ███████████████░░░░░ | 1.15/1.5 |
 | 📦 Repos | ████████████████████ | 1.00/1.0 |
 | 👥 Followers | ████████████░░░░░░░░ | 0.64/1.0 |
-| 🔥 Streak | ░░░░░░░░░░░░░░░░░░░░ | 0.03/1.0 |
+| 🔥 Streak | ░░░░░░░░░░░░░░░░░░░░ | 0.00/1.0 |
 | 📅 Activity | ████████████████████ | 1.00/1.0 |
 
 </td>
@@ -109,7 +109,7 @@
 <div align="center">
 
 **🌐 Top Languages:** PHP, TypeScript, HTML, JavaScript  
-*Last updated: 2026-05-27 06:49 UTC*
+*Last updated: 2026-05-28 01:47 UTC*
 
 </div>
 
