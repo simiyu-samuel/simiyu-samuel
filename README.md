@@ -18,24 +18,18 @@
 
 ## `// tech stack`
 
-**Backend**
+**Arsenal**
 
 ![PHP](https://img.shields.io/badge/PHP-7c3aed?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-b91c1c?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-15803d?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-166534?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-1d4ed8?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Frontend**
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-1d4ed8?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-854d0e?style=flat-square&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-164e63?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-134e4a?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Data & tooling**
-
 ![MySQL](https://img.shields.io/badge/MySQL-1e3a5f?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e3a5f?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-14532d?style=flat-square&logo=mongodb&logoColor=white)
@@ -58,19 +52,9 @@
 
 ---
 
-## `// contribution graph`
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=simiyu-samuel&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=f78166&hide_border=true&area=true&area_color=0d2d3a" width="100%" alt="Contribution graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-**Open to:** 🤝 collaboration &nbsp;·&nbsp; 💡 freelance work &nbsp;·&nbsp; 📚 knowledge sharing
+**Open to:** collaboration &nbsp;·&nbsp; freelance work &nbsp;·&nbsp; knowledge sharing
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=80&section=footer" width="100%" alt="footer"/>
 
