@@ -16,7 +16,7 @@
 
 ---
 
-## `// tech stack`
+## ` tech stack`
 
 **Arsenal**
 
@@ -37,25 +37,3 @@
 ![Git](https://img.shields.io/badge/Git-7c2d12?style=flat-square&logo=git&logoColor=white)
 
 ---
-
-## `// github stats`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=simiyu-samuel&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&ring_color=58a6ff" alt="GitHub stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=simiyu-samuel&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=8b949e&dates=484f58&stroke=21262d" alt="GitHub streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simiyu-samuel&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" alt="Top languages"/>
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=simiyu-samuel&theme=darkhub&no-bg=true&no-frame=true&row=2&column=3&margin-w=8" alt="Trophies"/>
-
-</div>
-
----
-
-<div align="center">
-
-**Open to:** collaboration &nbsp;·&nbsp; freelance work &nbsp;·&nbsp; knowledge sharing
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=80&section=footer" width="100%" alt="footer"/>
-
-</div>
